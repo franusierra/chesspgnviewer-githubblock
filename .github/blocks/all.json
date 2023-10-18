@@ -1,0 +1,5 @@
+{
+  "examples/kasparov.pgn": {
+    "default": "franusierra__chesspgnviewer-githubblock__pgn-viewer"
+  }
+}
