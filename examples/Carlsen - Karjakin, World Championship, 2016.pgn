@@ -9,7 +9,7 @@
 [PlyCount "84"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -17,51 +17,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game two"]
 [Site "?"]
@@ -74,7 +30,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "82"]
 [EventDate "2016.??.??"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -82,51 +38,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game three"]
 [Site "?"]
@@ -139,7 +51,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "156"]
 [EventDate "2016.??.??"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -147,51 +59,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game Five"]
 [Site "0:25:33-0:13:33"]
@@ -204,7 +72,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "102"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -212,51 +80,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game Four"]
 [Site "0:34:33-0:04:33"]
@@ -269,7 +93,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "187"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -277,51 +101,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game Six"]
 [Site "0:54:33-1:23:33"]
@@ -334,7 +114,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "64"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -342,51 +122,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game Seven"]
 [Site "0:21:33-1:04:33"]
@@ -399,7 +135,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "66"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -407,51 +143,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game Eight"]
 [Site "New York, NY USA"]
@@ -464,7 +156,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "110"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -472,51 +164,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game Nine"]
 [Site "0:26:33-0:39:33"]
@@ -529,7 +177,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "148"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -537,51 +185,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Game ten"]
 [Site "0:08:33-0:04:33"]
@@ -594,7 +198,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "149"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -602,51 +206,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1-0
+choice, but he quickly went astray} ) 1-0
 
 [Event "Game Eleven"]
 [Site "New York, NY USA"]
@@ -659,7 +219,7 @@ has another game very soon anyway.} 1-0
 [PlyCount "67"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -667,51 +227,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Tiebreaks game 1"]
 [Site "0:02:33-0:08:33"]
@@ -724,7 +240,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "74"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -732,51 +248,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1/2-1/2
+choice, but he quickly went astray} ) 1/2-1/2
 
 [Event "Tiebreas game three"]
 [Site "0:00:33-0:07:33"]
@@ -789,7 +261,7 @@ has another game very soon anyway.} 1/2-1/2
 [PlyCount "76"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -797,51 +269,7 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 0-1
+choice, but he quickly went astray} ) 0-1
 
 [Event "Tiebreaks game four"]
 [Site "0:01:33-0:00:33"]
@@ -854,7 +282,7 @@ has another game very soon anyway.} 0-1
 [PlyCount "99"]
 [EventDate "2016.11.11"]
 
-1. d4 Nf6 2. Bg5 {There you have it. There are some players rated around 2300
+{ test comment } 1. d4 Nf6 { test comment } 2. Bg5 {There you have it. There are some players rated around 2300
 who play the Trompovsky on a regular basis (and quite successfully) in Croatia)
 } d5 {One of the main moves. Cox recommends 2...e6, but Karjakin has his own
 opinion} 3. e3 {Prior to taking on f6 White waits a bit to see what Black will
@@ -862,49 +290,5 @@ do.} c5 4. Bxf6 {The logical idea in this opening... White gives up the bishop
 to spoil the pawn structure.} gxf6 {Toward the centre is more logical, not to
 isolate the d pawn} 5. dxc5 {This has all been played before.} Nc6 {This was
 Giri's move in Caruana - Giri, London Classic, 2015} ( 5... e6 {Was Kramnik's
-choice, but he quickly went astray} 6. Nf3 {And now instead of taking the pawn
-with the bishop he played} Nd7 {planning to take with the knight, but there
-followed} 7. c4 dxc4 8. c6 {With advantage to White, Carlsen - Kramnik, Tal
-Memorial, 2013} ) 6. Bb5$5 {[pgndiagram]A new move, Caruana went c3 but didn't
-achieve much} ( 6. Nc3 e6 7. Qh5 {Is the main line, that is scoring pretty well
-for White to be honest (65% in my database)} ) e6 {Simple chess} ( 6... a6 {
-Is also possible, but this way Black doesn't regain the pawn immediatelly} 7. Bxc6+ bxc6 8. Nd2 e5 9. b4 a5 10. c3 ) ( 6... Qa5+ 7. Nc3 a6 {Would have
-regained the pawn, but lost some time and White would enjoy that} ) ( 6... Rg8 {
-Is mentioned by GM Hess in his analysis, but it is better to reserve the right
-to castle} 7. Nc3 e6 8. g3 {And with Qh5 coming it will be enjoyable for White} ) 7. c4 ( 7. b4 a5 8. c3 Bd7 9. Nf3 axb4 10. Bxc6 Bxc6 11. cxb4 b6 ) dxc4 8. Nd2 {Keeping the queens gives more chances.} Bxc5 9. Ngf3 O-O 10. O-O$1 {
-Logical and natural} ( 10. Bxc6 bxc6 11. O-O Ba6 {Does compromise Black's
-structure, but gives no chances of advantage, the bishops are very strong} ) Na5 11. Rc1 {[pgndiagram] Up to here Magnus was playing instantly,
-signalling that he was still in his preparation} ( 11. Qc2 {Was a possibility,
-to capture on c4 as fast as possible without allowing queen exchange} Be7 12. Nxc4 Qc7 {However also doesn't bring White alot} ) Be7 12. Qc2 ( 12. Nxc4 {
-Taking on c4 doesn't bring much, but Black has to be somewhat careful} Qxd1 ( 12... a6$1 {[pgndiagram] Is very accurate computer suggestion} 13. Qxd8 Bxd8 14. Nd6 Be7 15. Nxc8 Raxc8 ) 13. Rfxd1 Nxc4 14. Bxc4 {With slightly more
-pleasant position for White due to development lead} ) Bd7$1 {Now Black
-has more or less equalized} 13. Bxd7 Qxd7 14. Qc3 Qd5 ( 14... b6 {Was
-interesting} 15. Nxc4 Rac8 16. Qd2 Qxd2 17. Ncxd2 {And equality is even more
-clear} ) 15. Nxc4 Nxc4 16. Qxc4 ( 16. Rfd1 {Is both GM Hess and computer
-suggestion. White seizes the d file while the c4 knight isn't going anywhere.
-However, it is doubtful whether that is advantageous to him} Qb5 17. Qxc4 Qxc4 18. Rxc4 Rac8 19. Rxc8 Rxc8 {And he doesn't have time to go Rd7 because of
-bank rank problems} ) Qxc4 17. Rxc4 {[pgndiagram]Here it is time to take
-a stop. Most of us would be faster to leave the board at this state than
-Golden State Warriors fans are when their team is blowing the 3-1 lead in the
-final. However I think it is very instructive how Karjakin eliminates even
-these slight chances that Magnus had to create some problems. But why should
-Magnus have chances at the first place. Well, White's pawn structure is better,
-and he is first to seize the open file. However, amount of Black's weaknesses
-and his good bishop easily deal with that.} Rfc8 {Exchanging a pair of rooks} 18. Rfc1 Rxc4 19. Rxc4 Rd8 20. g3 ( 20. g4 {Would put a pawn on a light square
-and restrict the bishop somewhat, but would not change the evaluation} ) Rd7 {Not allowing Rc7} 21. Kf1 f5 22. Ke2 Bf6 23. b3 Kf8 24. h3 h6 {The knight
-wasn't going anywhere from f3, so it is time to reroute it} 25. Ne1 Ke7 26. Nd3 {When playing such endgames it is very hard, at least for me, to decide where
-to advance the pawns, which pawns to advance, etc etc} Kd8 27. f4 {[pgndiagram]
-This is the instance I don't understand completely. Now h pawn can never be
-attacked by the rook, g pawn is somewhat weakened and stuff. Carlsen admitted
-that he planned on going Ne5 and then winning some superior endgame, but as he
-said, "it was a mirage"} h5 28. a4 {In any case White didn't miss big chances} Rd5 {Keeping the rooks. Sometimes it is easier to steer for clarity, but often
-exhcanges leave the pushing side satisfied.} ( 28... Rc7 {Would have been
-something that White was aiming for} 29. Rxc7 Kxc7 30. Ne5 Bxe5 31. fxe5 Kc6 32. Kf3 {[pgndiagram] And i think that this pawn endgame is won for White} ) 29. Nc5 b6 30. Na6 Be7 31. Nb8 ( 31. b4 b5 32. axb5 Rxb5 {Is equal} ) a5 {
-White was threatening Nc6 - Nxa7} 32. Nc6+ Ke8 33. Ne5 Bc5 34. Rc3 {Now there
-really isn't very much going on, and players will be quick to agree a draw.} Ke7 35. Rd3 Rxd3 36. Kxd3 f6 37. Nc6+ Kd6 38. Nd4 Kd5 39. Nb5 Kc6 40. Nd4+ Kd6 41. Nb5+ Kd7 42. Nd4 Kd6 {Very correctly played game and probing game from the
-Champion. By going with the Trompovsky he basically avoided all Karjakin's
-preparation and, as on numerous instances before, tried simply to play chess.
-However, this time, it didn't quite work, but i doubt that Magnus will be
-deeply depressed after this game, as he didn't miss serious chances, and he
-has another game very soon anyway.} 1-0
+choice, but he quickly went astray} ) 1-0
 
