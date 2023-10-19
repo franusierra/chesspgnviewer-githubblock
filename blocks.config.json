@@ -4,17 +4,8 @@
     "id": "pgn-viewer",
     "title": "Pgn viewer block",
     "description": "A block for viewing pgn files as chess matches",
-    "entry": "blocks/example-file-block/index.tsx",
+    "entry": "blocks/chesspgnviewer.tsx",
     "matches": ["*.pgn"],
-    "example_path": "https://github.com/facebook/react/blob/main/packages/react-dom/index.js"
-  },
-  {
-    "type": "folder",
-    "id": "folder-block",
-    "title": "Example Folder Block",
-    "description": "A basic folder block",
-    "entry": "blocks/example-folder-block.tsx",
-    "matches": ["*"],
-    "example_path": "https://github.com/githubocto/flat"
+    "example_path": "https://github.com/franusierra/chesspgnviewer-githubblock/blob/main/examples/kasparov.pgn"
   }
 ]

@@ -11,6 +11,7 @@
     "@githubnext/blocks": "^2.3.5",
     "@mliebelt/pgn-viewer": "^1.6.6",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-icons": "^4.11.0"
   }
 }
