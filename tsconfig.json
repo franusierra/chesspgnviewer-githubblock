@@ -1,4 +1,7 @@
 {
   "extends": "./node_modules/@githubnext/blocks/tsconfig.json",
-  "include": ["./blocks"]
+  "include": ["./blocks"],
+  "compilerOptions": {
+    "noImplicitAny": false
+  },
 }
