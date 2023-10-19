@@ -63,7 +63,7 @@ export default function ExampleFileBlock(props: FileBlockProps) {
       let game=pgnReader.getGame(i);
       editedCurrentPgnContent+=writeGame(game, pgnReader.configuration)+"\n\n";
     }
-    onUpdateContent(editedCurrentPgnContent);
+    console.log(editedCurrentPgnContent);
   }
   return (
     <div
