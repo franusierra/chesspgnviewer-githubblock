@@ -28,6 +28,17 @@ export default function ExampleFileBlock(props: FileBlockProps) {
     window.addEventListener("resize", handleResize);
     return () => window.removeEventListener("resize", handleResize);
   }, []);
+
+  function getFullCurrentPgn(){
+    let pgnReader : any= currentBase.current.getPgn();
+    let editedCurrentPgnContent="";
+    for(let i=0;i<pgnReader.getGames().length;i++){
+      let game=pgnReader.getGame(i);
+      editedCurrentPgnContent+=writeGame(game, pgnReader.configuration)+"\n\n";
+    }
+    return editedCurrentPgnContent;
+  }
+
   let currentBase=useRef<any>();
   useLayoutEffect(() => {
     // Only way to make responsiveness (on resizing resets the board but haven't found a better way)
@@ -40,7 +51,7 @@ export default function ExampleFileBlock(props: FileBlockProps) {
       layout = "top";
     }
     let { base, board } = pgnEdit("board", {
-      pgn: currentBase.current?currentBase.current.getPgn().writePgn():content,
+      pgn: currentBase.current?getFullCurrentPgn():content,
       pieceStyle: "wikipedia",
       theme: "brown",
       showResult: true,
@@ -57,13 +68,8 @@ export default function ExampleFileBlock(props: FileBlockProps) {
     currentBase.current=base;
   }, [windowSize]);
   function saveCurrentGame(){
-    let pgnReader : any= currentBase.current.getPgn();
-    let editedCurrentPgnContent="";
-    for(let i=0;i<pgnReader.getGames().length;i++){
-      let game=pgnReader.getGame(i);
-      editedCurrentPgnContent+=writeGame(game, pgnReader.configuration)+"\n\n";
-    }
-    console.log(editedCurrentPgnContent);
+    let editedCurrentPgnContent=getFullCurrentPgn();
+    onUpdateContent(editedCurrentPgnContent);
   }
   return (
     <div
